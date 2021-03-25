@@ -1,4 +1,4 @@
 # Pong
 Pong Clone Using Monogame
 
-![alt text](\demo.png)
+![alt text](\pongDemo.png)
